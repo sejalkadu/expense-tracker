@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2025-02-01",
+        "amount": 25.0,
+        "description": "the amount spent on lunch",
+        "category": "Food"
+    },
+    {
+        "date": "2025-04-04",
+        "amount": 70.0,
+        "description": "the amount for doctor visit",
+        "category": "Healthcare"
+    },
+    {
+        "date": "2025-01-25",
+        "amount": 130.0,
+        "description": "college fees",
+        "category": "Education"
+    },
+    {
+        "date": "2025-02-02",
+        "amount": 1790.0,
+        "description": "electricity bill",
+        "category": "Utilities"
+    }
+]
